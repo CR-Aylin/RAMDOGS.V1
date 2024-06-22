@@ -346,7 +346,7 @@ TextureImporter:
         serializedVersion: 2
         x: 176
         y: 184
-        width: 16
+        width: 24
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -556,10 +556,10 @@ TextureImporter:
         serializedVersion: 2
         x: 176
         y: 168
-        width: 16
+        width: 24
         height: 16
-      alignment: 9
-      pivot: {x: 0.5192833, y: 0.5064278}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -808,10 +808,10 @@ TextureImporter:
         serializedVersion: 2
         x: 176
         y: 152
-        width: 16
+        width: 24
         height: 16
-      alignment: 9
-      pivot: {x: 1.178886, y: 0.6555777}
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1037,13 +1037,13 @@ TextureImporter:
       name: wualala_44
       rect:
         serializedVersion: 2
-        x: 184
-        y: 184
+        x: 160
+        y: 136
         width: 16
         height: 16
-      alignment: 9
-      pivot: {x: 2.140642, y: 0.3727083}
-      border: {x: 8, y: 0, z: 0, w: 0}
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1058,13 +1058,13 @@ TextureImporter:
       name: wualala_45
       rect:
         serializedVersion: 2
-        x: 184
-        y: 168
+        x: 176
+        y: 136
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 8, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1711,7 +1711,7 @@ TextureImporter:
         serializedVersion: 2
         x: 176
         y: 72
-        width: 16
+        width: 17
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2440,27 +2440,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: wualala_111
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 152
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 252e5db4f0647624b913615dc9af49a3
-      internalID: 629884462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2487,7 +2466,6 @@ TextureImporter:
       wualala_109: -766306432
       wualala_11: -1485931302
       wualala_110: -1629233203
-      wualala_111: 629884462
       wualala_12: 1727051636
       wualala_13: -98415729
       wualala_14: 2060894306
