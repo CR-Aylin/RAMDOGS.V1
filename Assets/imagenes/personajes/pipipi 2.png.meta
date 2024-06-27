@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d9ef02a370478443b395a1447e83400
+guid: 9ec801d0c4f9d6e41824e49e942ee315
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: perroavion_0
+      name: pipipi 2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 62
-        height: 64
+        x: 19
+        y: 2
+        width: 26
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 948afa1cd69162b418c8c892130b9264
-      internalID: 31008276
+      spriteID: b3d82dc5af5877e4a8bc54aa727b4ac7
+      internalID: 564248040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: perroavion_1
+      name: pipipi 2_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 0
-        width: 62
-        height: 64
+        x: 83
+        y: 2
+        width: 26
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e13acf1b0df710244b6e062876e511f9
-      internalID: 2115471749
+      spriteID: c5eb25bb3f2303e4cb27581216ae9f6c
+      internalID: 1162183618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: perroavion_2
+      name: pipipi 2_2
       rect:
         serializedVersion: 2
-        x: 124
-        y: 0
-        width: 62
-        height: 64
+        x: 147
+        y: 2
+        width: 26
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,50 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5c06ba3b474e9241bccc1845a03d29d
-      internalID: -931155504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perroavion_3
-      rect:
-        serializedVersion: 2
-        x: 186
-        y: 0
-        width: 62
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c413c3a4024a335458481b1384ee1276
-      internalID: 589643645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: perroavion_4
-      rect:
-        serializedVersion: 2
-        x: 248
-        y: 0
-        width: 62
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b84046236a4f0984f8460ac650c0591a
-      internalID: -164951465
+      spriteID: 05987c55b82a98a4fb273c1639b4987f
+      internalID: -120657933
       vertices: []
       indices: 
       edges: []
@@ -225,11 +183,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      perroavion_0: 31008276
-      perroavion_1: 2115471749
-      perroavion_2: -931155504
-      perroavion_3: 589643645
-      perroavion_4: -164951465
+      pipipi 2_0: 564248040
+      pipipi 2_1: 1162183618
+      pipipi 2_2: -120657933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
