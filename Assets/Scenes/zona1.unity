@@ -2783,8 +2783,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   velocidad: 1
   salto: 2
-  llaves: 0
-  vida: 6
 --- !u!61 &1239138876
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4596,7 +4594,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a354d4e2c9df942b967df4f7be29bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadEnemigo: 1
+  velocidadEnemigo: 0.5
   player: {fileID: 1239138870}
 --- !u!1 &1947754963
 GameObject:
@@ -4814,7 +4812,7 @@ GameObject:
   - component: {fileID: 2113852829}
   m_Layer: 0
   m_Name: puerta_0
-  m_TagString: Untagged
+  m_TagString: crisis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
