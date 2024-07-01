@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class playermov2 : MonoBehaviour
@@ -46,6 +47,28 @@ public class playermov2 : MonoBehaviour
         player.velocity = new Vector2(player.velocity.x,salto);      
 
        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision){
+
+        if(collision.gameObject.tag == "enemigo"){
+
+            vida--;
+            //vida = 0;
+
+        }
+        /*
+        if(vida <= 0){//muere
+
+           Destroy(GameObject.FindWithTag("Player"));
+
+        }*/
+
+    }
+
+    public void perdervidas(){
+        vida-= 1;
+       
     }
 
     
